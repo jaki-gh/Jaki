@@ -1,5 +1,5 @@
 #Bean Calculator
-#A Space Yeti Studios project
+#An XR Studios project
 
 #Calculates how many beans you have based on weight.
 
